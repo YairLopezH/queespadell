@@ -55,6 +55,13 @@ main{
     color: #fff;
     text-shadow: 0 0 5px #000;
 }
+.separadores3{
+    text-align: center;
+    background-color:rgb(0, 255, 251);
+    padding: 20px;
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+}
 .cleft{
     background-image: url(/assets/tapiaSmash.webp);
     background-size: cover;
@@ -89,7 +96,36 @@ main{
 }
 .rbright{
     text-decoration: none;
-    color: green;}
+    color: green;
+}
+
+.pleft{
+    background-image: url(/assets/muchaspaletas.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.pright{
+    text-decoration: none;
+    color:blue
+}
+.paletas{
+    text-align: center;
+    color: white;
+    background-color: rgba(207, 131, 9, 0.971);
+    background-size: cover;
+    text-shadow: 0 0 5px black;
+}
+.bcontacto{
+    background-color: grey;
+}
+.formulariosc{
+    color: white;
+    background-color: blue;
+    background-size: cover;
+    text-align: start;
+}
 
 footer{
     text-align: center;
