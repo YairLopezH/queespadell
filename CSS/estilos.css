@@ -25,6 +25,9 @@ body{
     height: 100px;
     
 }
+.logop{
+    height: 50px;
+}
 main{
     display: flex;
     flex-direction: column;
