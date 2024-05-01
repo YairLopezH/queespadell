@@ -18,7 +18,7 @@ body{
 }
 
 .fheader{
-    background-image: url(../assets/header-cancha.jpg) !important;
+    background-image: url(../assets/headerCancha.jpg) !important;
     background-size: cover !important;
     background-position: center !important;
     font-size: 30px !important;
@@ -131,7 +131,7 @@ main{
 
 .footerc{
     text-align: center !important;
-    background-image: url(../assets/header-background.jpg) !important;
+    background-image: url(../assets/footerBackground.jpg) !important;
     background-size:cover !important;
     background-position: center !important;
 
