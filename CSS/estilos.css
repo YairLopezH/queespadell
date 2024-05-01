@@ -131,12 +131,13 @@ main{
     background-size: cover;
     text-align: start;
 }
-
-.footerc{
-    text-align: center !important;
+footer{
     background-image: url(../assets/footerBackground.jpg) !important;
     background-size:cover !important;
     background-position: center !important;
+}
+.footerc{
+    text-align: center !important;
 
 }
 
