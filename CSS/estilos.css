@@ -18,7 +18,7 @@ body{
 }
 
 .fheader{
-    background-image: url(assets/header-cancha.jpg) !important;
+    background-image: url(/assets/header-cancha.jpg) !important;
     background-size: cover;
     background-position: center;
     font-size: 30px;
@@ -34,7 +34,7 @@ main{
 .jumbotron{
     color: white;
     text-shadow: 0 0 5px #000;
-    background-image: url(assets/backgroud-main.jpg);
+    background-image: url(assets/backgroud-main.jpg) !important;
     background-size: cover;
     background-position: center;
 }
@@ -64,7 +64,7 @@ main{
     text-shadow: 0 0 5px #000;
 }
 .cleft{
-    background-image: url(assets/tapiaSmash.webp);
+    background-image: url(assets/tapiaSmash.webp) !important;
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -101,7 +101,7 @@ main{
 }
 
 .pleft{
-    background-image: url(assets/muchaspaletas.jpg);
+    background-image: url(assets/muchaspaletas.jpg) !important;
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -130,7 +130,7 @@ main{
 
 footer{
     text-align: center;
-    background-image: url(assets/header-background.jpg);
+    background-image: url(assets/header-background.jpg) !important;
     background-size:cover;
     background-position: center;
 
