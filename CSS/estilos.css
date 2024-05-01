@@ -23,6 +23,9 @@ body{
     background-position: center;
     font-size: 30px !important;
 }
+.logop{
+    height: 50px;
+}
 
 main{
     display: flex;
