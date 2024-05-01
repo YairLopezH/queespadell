@@ -8,7 +8,9 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
+    min-height: 100%;
     background-color: rgb(0, 0, 0);
     background-size: cover;
     background-position: center;
@@ -19,8 +21,11 @@ body{
     background-size: cover;
     background-position: center;
     font-size: 30px;
+    
 }
 main{
+    display: flex;
+    flex-direction: column;
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -43,14 +48,21 @@ main{
     color: #fff;
     text-shadow: 0 0 5px #000;
 }
-.nleft{
+.separadores2{
+    text-align: center;
+    background-color: red;
+    padding: 20px;
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+}
+.cleft{
     background-image: url(/assets/tapiaSmash.webp);
     background-size: cover;
     background-position: center;
     height: 500px;
 }
 
-.nright a{
+.cright a{
     text-decoration: none;
     color: green;
 }
@@ -62,13 +74,29 @@ main{
     background-size: cover;
     text-shadow: 0 0 5px black;
 }
-
+.reglas{
+    color: green;
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+.listaReglas li{
+    list-style-type:none;
+}
+.rbleft{
+    text-decoration: none;
+    color: green;
+}
+.rbright{
+    text-decoration: none;
+    color: green;}
 
 footer{
     text-align: center;
     background-image: url(/assets/Header-background.jpg);
     background-size:cover;
     background-position: center;
+
 }
 
 footer a{
