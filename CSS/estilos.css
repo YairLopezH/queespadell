@@ -19,13 +19,11 @@ body{
 
 .fheader{
     background-image: url(../assets/headerCancha.jpg) !important;
-    background-size: cover !important;
-    background-position: center !important;
+    background-size: cover;
+    background-position: center;
     font-size: 30px !important;
 }
-.logop{
-    height: 50px;
-}
+
 main{
     display: flex;
     flex-direction: column;
