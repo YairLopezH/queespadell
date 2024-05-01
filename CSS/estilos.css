@@ -22,6 +22,7 @@ body{
     background-size: cover !important;
     background-position: center !important;
     font-size: 30px !important;
+    height: 100px;
     
 }
 main{
@@ -128,11 +129,11 @@ main{
     text-align: start;
 }
 
-footer{
-    text-align: center;
+.footerc{
+    text-align: center !important;
     background-image: url(../assets/header-background.jpg) !important;
-    background-size:cover;
-    background-position: center;
+    background-size:cover !important;
+    background-position: center !important;
 
 }
 
