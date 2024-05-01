@@ -14,10 +14,11 @@ body{
     background-color: rgb(0, 0, 0);
     background-size: cover;
     background-position: center;
+    
 }
 
 .fheader{
-    background-image: url(/assets/header-cancha.jpg);
+    background-image: url(/assets/header-cancha.jpg) !important;
     background-size: cover;
     background-position: center;
     font-size: 30px;
