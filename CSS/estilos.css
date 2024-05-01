@@ -19,9 +19,9 @@ body{
 
 .fheader{
     background-image: url(../assets/header-cancha.jpg) !important;
-    background-size: cover;
-    background-position: center;
-    font-size: 30px;
+    background-size: cover !important;
+    background-position: center !important;
+    font-size: 30px !important;
     
 }
 main{
